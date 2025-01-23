@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #1E1E24;
+    /* background-color: #1E1E24; */
+    background: linear-gradient(90deg, rgb(7, 7, 98), rgb(69, 5, 5));
     color: #FB9F89;
     text-align: center;
 }
